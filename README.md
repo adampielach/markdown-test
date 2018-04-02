@@ -69,7 +69,7 @@ You attach an image with: `![alt_text](URL "title")`.
 
 Image can also be referenced with `[reference_name]: URL`.
 
-You gave to specify image like `![alt_text][reference_name]`.
+You just have to specify image like `![alt_text][reference_name]`.
 
 ![Markdown logo][markdown_reference]
 
