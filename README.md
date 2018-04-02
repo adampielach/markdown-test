@@ -1,6 +1,6 @@
 <!-- good GitHub reference -->
 
-` The original reference for Markdown: `
+The original reference for Markdown: 
 [John Gruber's original spec](http://daringfireball.net/projects/markdown/)
 
 <!-- Headings -->
@@ -61,7 +61,7 @@ ___
 
 <!-- image -->
 ## IMAGES
----------
+-----
 
 You attach an image with: `![alt_text](URL "title")`.
 
