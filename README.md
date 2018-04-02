@@ -61,7 +61,6 @@ ___
 
 <!-- image -->
 ## IMAGES
-------
 
 You attach an image with: `![alt_text](URL "title")`.
 
