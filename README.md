@@ -60,8 +60,20 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- image -->
+## IMAGES
+---------
 
-![Markdown logo](https://markdown-here.com/img/icon256.png)
+You attach an image with: `![alt_text](URL "title")`.
+
+![Markdown logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Markdown Logo")
+
+Image can also be referenced with `[reference_name]: URL`.
+
+You gave to specify image like `![alt_text][reference_name]`.
+
+![Markdown logo][markdown_reference]
+
+[markdown_reference]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 <!-- GitHub Markdown -->
 
