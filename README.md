@@ -1,3 +1,8 @@
+<!-- good GitHub reference -->
+
+` The original reference for Markdown: `
+[John Gruber's original spec](http://daringfireball.net/projects/markdown/)
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
